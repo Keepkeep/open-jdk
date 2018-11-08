@@ -1,0 +1,3 @@
+C:\DIST\jdk1.8\jdk
+
+C:\DIST\jdkversion\jdk1.6
